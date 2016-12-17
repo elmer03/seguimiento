@@ -22,7 +22,7 @@
                         <h4>
                             D.P.A.- D.I.S.U.
                         </h4>
-                        <h6>Periodo Academico I-2015</h6>
+                        <h6>Periodo Académico I-2015</h6>
                     </div>
                 </div>
                 <div class="row">
@@ -33,12 +33,12 @@
                             <td>Ariel Oscar</td>
                             <td>angoloa</td>
                             <td>mendoza</td>
-                            <td>apellido esposito lindo yacelly</td>
+                            <td>apellido esposo</td>
                             <td rowspan="2"><h6>CI</h6></td>
                             <td>64646344</td>
                         </tr>
                         <tr>
-                            <td class="text-center"><h6>Nombre(s)</h6></td>
+                            <td class="text-center"><h6>NOMBRE(S)</h6></td>
                             <td class="text-center"><h6>AP. PATERNO</h6></td>
                             <td class="text-center"><h6>AP. MATERNO</h6></td>
                             <td class="text-center"><h6>AP. ESPOSO</h6></td>
@@ -70,6 +70,18 @@
                             <td>INFORMATICA-SISTEMAS</td>
                             <td>MATEMATICA COMPUTACIONAL II</td>
                             <td>2008214</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td><input type="checkbox"></td>
+                            <td><input type="checkbox" checked></td>
+                        </tr>
+                        <tr>
+                            <td>2.-</td>
+                            <td>CIENCIAS Y TECNOLOGIA</td>
+                            <td>INF-SIS</td>
+                            <td>INFORMATICA-SISTEMAS</td>
+                            <td>BASE DE DATOS DISTRIBUIDAS</td>
+                            <td>155555</td>
                             <td>0</td>
                             <td>0</td>
                             <td><input type="checkbox"></td>
