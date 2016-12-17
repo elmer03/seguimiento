@@ -9,6 +9,7 @@ class seguimientodocente_model
     private $arregloGrupo;
     private $arregloHorarioMateria;
     private $arregloCarrera;
+    private $arregloDocente;
 
     public function __construct()
     {
@@ -21,6 +22,8 @@ class seguimientodocente_model
         $this->arregloHorarioMateria = array();
 
         $this->arregloCarrera = array();
+
+        $this->arregloDocente= array();
 
     }
 
@@ -52,6 +55,39 @@ class seguimientodocente_model
         return $this->arregloMateria;
     }
 
+    public function get_docente($ID_DOC)
+    {
+        $consulta_sql = "select * from DOCENTE where ID_DOC=".$ID_DOC;
+        $consulta =$this->db->query($consulta_sql);
+        while ($filas = $consulta->fetch_assoc()) {
+            $this->arregloDocente[] = $filas;
+        }
+        return $this->arregloDocente;
+
+    }
+
 }
 
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

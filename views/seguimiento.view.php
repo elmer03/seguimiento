@@ -48,6 +48,7 @@
                                                     <th>NOMBRE</th>
                                                     <th>APELLIDO PATERNO</th>
                                                     <th>APELLIDO MATERNO</th>
+                                                    <th colspan="2" class="text-center">OPCIONES</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -58,6 +59,7 @@
                                                         <td><?php echo $docente['APELLPA_DOC'] ?></td>
                                                         <td><?php echo $docente['APELLMA_DOC'] ?></td>
                                                         <td><a class="btn btn-primary btn-xs" id="boton">seleccionar</a></td>
+                                                        <td><a href="../rptSeguimientoDocente.php?ID_DOC=<?= $docente['ID_DOC']?>" class="btn btn-primary btn-xs" id="btn_ver_reporte">ver reporte</a></td>
                                                     </tr>
                                                 <?php endforeach;?>
                                                 </tbody>

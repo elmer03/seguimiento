@@ -7,12 +7,18 @@ if (isset($_SESSION['usuario'])) {
     require_once("models/seguimientodocente.php");
     //cargado el modelo
     $seguimientoDocente = new seguimientodocente_model();
-    $seguimientoMateria = new seguimientodocente_model();
 
     $arregloDocentes = $seguimientoDocente->get_docentes();
-    $arregloDocentesRoles = $seguimientoDocente->get_docente_rol();
 
-    $arregloMateria = $seguimientoMateria->get_materia();
+    $ID_DOC = $_GET['ID_DOC'];
+    $arregloDocente = $seguimientoDocente->get_docente($ID_DOC);
+
+    //echo $ID_DOC;
+
+
+    //$arregloDocentesRoles = $seguimientoDocente->get_docente_rol();
+
+    //$arregloMateria = $seguimientoDocente->get_materia();
 //    $arregloGrupo = $seguimientoDocente->get_grupo();
 //    $arregloHorarioMateria = $seguimientoDocente->get_horario_materia();
 //    $arregloFacultad = $seguimientoDocente->get_faculad();
