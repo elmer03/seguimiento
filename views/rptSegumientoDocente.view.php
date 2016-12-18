@@ -37,7 +37,7 @@
                             <td><h6>64646344</h6></td>
                         </tr>
                         <tr>
-                            <td class="text-center"><h6><b>NOMBRE(S</b>)</h6></td>
+                            <td class="text-center"><h6><b>NOMBRE(S)</b></h6></td>
                             <td class="text-center"><h6><b>AP. PATERNO</b></h6></td>
                             <td class="text-center"><h6><b>AP. MATERNO</b></h6></td>
                             <td class="text-center"><h6><b>AP. ESPOSO</b></h6></td>
@@ -50,13 +50,13 @@
                         <thead>
                         <tr>
                             <th></th>
-                            <th width="20%">FACULTAD</th>
+                            <th width="30%">FACULTAD</th>
                             <th></th>
-                            <th width="20%">CARRERA</th>
+                            <th width="10%">CARRERA</th>
                             <th></th>
                             <th width="20%">DEPARTAMENTO</th>
                             <th></th>
-                            <th width="20%">MATERIAS</th>
+                            <th width="30%">MATERIAS</th>
                             <th width="20%">SIGLA</th>
                             <th width="10%">H.Teor.</th>
                             <th width="10%">H.Prac.</th>
@@ -67,121 +67,138 @@
                         <tbody>
                         <tr>
                             <td>1.-</td>
-                            <td width="20%"><h6>CIENCIAS Y TECNOLOGIA</h6></td>
+                            <td width="30%" height="5"><h6>CIENCIAS Y TECNOLOGIA</h6></td>
                             <td>1.-</td>
-                            <td width="20%"><h6>INF-SIS</h6></td>
+                            <td width="10%" height="5"><h6>INF-SIS</h6></td>
                             <td>1.-</td>
-                            <td width="20%"><h6>INFORMATICA-SISTEMAS</h6></td>
+                            <td width="20%" height="2"><h6>INFORMATICA-SISTEMAS</h6></td>
                             <td>1.-</td>
-                            <td width="20%"><h6>MATEMATICA COMPUTACIONAL II</h6></td>
-                            <td>2008214</td>
-                            <td>0</td>
-                            <td>0</td>
+                            <td width="30%" height="2"><h6>MATEMATICA COMPUTACIONAL II</h6></td>
+                            <th width="20%" height="2"><h6>2008214</h6>
+                            </td>
+                            <th width="5%" height="2"><h6>0</h6>
+                            </td>
+                            <th width="5%" height="2"><h6>0</h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox" checked></td>
                         </tr>
                         <tr>
                             <td>2.-</td>
-                            <td>CIENCIAS Y TECNOLOGIA</td>
+                            <td width="30%" height="5"><h6>CIENCIAS Y TECNOLOGIA</h6></td>
                             <td>2.-</td>
-                            <td>INF-SIS</td>
+                            <td width="10%" height="5"><h6>INF-SIS</h6></td>
                             <td>2.-</td>
-                            <td>INFORMATICA-SISTEMAS</td>
+                            <td width="20%" height="2"><h6>INFORMATICA-SISTEMAS</h6></td>
                             <td>2.-</td>
-                            <td>BASE DE DATOS DISTRIBUIDAS</td>
-                            <td>155555</td>
-                            <td>0</td>
-                            <td>0</td>
+                            <td width="40%" height="2"><h6>BASE DE DATOS DISTRIBUIDAS</h6></td>
+                            <td width="20%" height="2"><h6>155555</h6></td>
+                            <th width="5%" height="2"><h6>0</h6>
+                            </td>
+                            <th width="5%" height="2"><h6>0</h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox" checked></td>
                         </tr>
                         <tr>
                             <td>3.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>3.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>3.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>3.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
                         <tr>
                             <td>4.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>4.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>4.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>4.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
                         <tr>
                             <td>5.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>5.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>5.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>5.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
                         <tr>
                             <td>6.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>6.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>6.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>6.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
                         <tr>
                             <td>7.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>7.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>7.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>7.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
                         <tr>
                             <td>8.-</td>
-                            <td></td>
+                            <td width="30%"><h6></h6></td>
                             <td>8.-</td>
-                            <td></td>
+                            <td width="10%"><h6></h6></td>
                             <td>8.-</td>
-                            <td></td>
+                            <td width="20%"><h6></h6></td>
                             <td>8.-</td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td width="40%"><h6></h6></td>
+                            <td><h6></h6></td>
+                            <th width="5%"><h6></h6>
+                            </td>
+                            <th width="5%"><h6></h6>
+                            </td>
                             <td><input type="checkbox"></td>
                             <td><input type="checkbox"></td>
                         </tr>
@@ -189,57 +206,807 @@
 
                     </table>
 
+                </div>
 
+
+                <div class="row">
+                    <table>
+                        <tbody>
+                        <tr>
+                            <td width="21%"><b>CATEGORIA DOCENTE</b></td>
+                            <td>A(Catedrático)</td>
+                            <td width="3%"><input type="checkbox"></td>
+                            <td>B(Adjunto)</td>
+                            <td width="3%"><input type="checkbox"></td>
+                            <td>C(Asistente)</td>
+                            <td width="3%"><input type="checkbox"></td>
+                            <td>Auxiliar Docencia</td>
+                            <td width="3%"><input type="checkbox"></td>
+                            <td>Otro cargo UMSS</td>
+                            <td>___________</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div>
+                    <table class="table table-bordered">
+                        <thead>
+                        <tr>
+                            <th rowspan="2" class="text-center" width="3%">HORAS</th>
+                            <th colspan="5" class="text-center" width="10%">LUNES</th>
+                            <th colspan="5" class="text-center" width="10%">MARTES</th>
+                            <th colspan="5" class="text-center" width="10%">MIERCOLES</th>
+                            <th colspan="5" class="text-center" width="10%">JUEVES</th>
+                            <th colspan="5" class="text-center" width="10%">VIERNES</th>
+                            <th colspan="5" class="text-center" width="10%">SÁBADO</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td></td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                            <td class="text-center" width="3%">Materia</td>
+                            <td class="text-center" width="3%">GR</td>
+                            <td class="text-center" width="3%">TP</td>
+                            <td class="text-center" width="3%">AL</td>
+                            <td class="text-center" width="3%">AU</td>
+                        </tr>
+                        <tr>
+                            <td>06:45-07:30</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>07:30-08:15</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>08:15-09:00</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>09:00-09:45</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>09:45-10:30</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>10:30-11:15</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>11:15-12:00</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>12:00-12:45</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>12:45-13:30</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>13:30-14:15</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>14:15-15:00</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>15:00-15:45</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>15:45-16:30</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>16:30-17:15</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>17:15-18:00</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>18:00-18:45</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>18:45-19:30</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>19:30-20:15</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>20:15-21:00</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        <tr>
+                            <td>21:00-21:45</td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                            <td class="text-center" width="3%"></td>
+                        </tr>
+                        </tbody>
+
+                    </table>
                 </div>
 
                 <div class="row">
                     <table>
+                      <tbody>
+                        <tr>
+                            <td width="3%">Hrs. Teoria</td>
+                            <td width="3%">Hrs. Práctica</td>
+                            <td width="3%">Hrs. Producción</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">RESUMEN</td>
+                         </tr>
+                        <tr>
+                            <td width="3%">Hrs. de Investigación</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">Hrs. de Servicio Acad.</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">TOTAL HORAS/SEMANA TRABAJADAS</td>
+                        </tr>
+                        <tr>
+                            <td width="3%">Hrs. Extensión</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">Hrs. de Producc. Acad.</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">TOTAL HORAS/MES TRABAJADAS</td>
+                        </tr>
+                        <tr>
+                            <td width="3%">Hrs. Servicio</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">Hrs.Administ.Acad.</td>
+                            <td width="3%">R.C.F.Nº</td>
+                            <td width="3%">TOTAL HORAS AUTORIZADAS</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td width="3%">TIEMPO PARCIAL</td>
+                        </tr>
+                        <tr>
+                            <td>Observaciones</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td width="3%">DEDICACION EXCLUSIVA</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div>
+                    <table>
                         <thead>
+                            <th width="10%">________________</th>
+                            <th width="10%">________________</th>
+                            <th width="10%">________________</th>
+                            <th width="10%">________________</th>
+                            <th width="10%">________________</th>
                         </thead>
                         <tbody>
-                        <tr>
-                            <td>Hrs. Teoria</td>
-                            <td>Hrs. Práctica</td>
-                            <td>Hrs. Producción</td>
-                            <td>R.C.F.Nº</td>
-                            <td>RESUMEN</td>
-                        </tr>
-                        <tr>
-                            <td>Hrs. de Investigación</td>
-                            <td>R.C.F.Nº</td>
-                            <td>Hrs. de Servicio Acad.</td>
-                            <td>R.C.F.Nº</td>
-                            <td>TOTAL HORAS/SEMANA TRABAJADAS</td>
-                        </tr>
-                        <tr>
-                            <td>Hrs. Extensión</td>
-                            <td>R.C.F.Nº</td>
-                            <td>Hrs. de Producc. Acad.</td>
-                            <td>R.C.F.Nº</td>
-                            <td>TOTAL HORAS/MES TRABAJADAS</td>
-                        </tr>
-                        <tr>
-                            <td>Hrs. Servicio</td>
-                            <td>R.C.F.Nº</td>
-                            <td>Hrs.Administ.Acad.</td>
-                            <td>R.C.F.Nº</td>
-                            <td>TOTAL HORAS AUTORIZADAS</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td>TIEMPO PARCIAL</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td>DEDICACION EXCLUSIVA</td>
-                        </tr>
-
+                            <tr>
+                                <td>Firma del Docente</td>
+                                <td>Firma del Jefe de Dpto. o Carrera</td>
+                                <td>Firma Director Académico</td>
+                                <td>Firma Decano</td>
+                                <td>Vo.Bo.Dpto.Personal</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
