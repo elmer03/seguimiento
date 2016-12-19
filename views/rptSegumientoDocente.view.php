@@ -13,7 +13,7 @@
             <div id="contenido">
                 <div class="row">
                     <div class="col-md-3 text-left">
-                        <h4>UNIVERSIDAD MAYOR DE SAN SIMÓN</h4>
+                        <h5>UNIVERSIDAD MAYOR DE SAN SIMÓN</h5>
                         <h4>VICERECTORADO</h4>
                     </div>
                     <div class="col-md-6 text-center">
@@ -27,15 +27,19 @@
                 <div class="row">
                     <table class="table ">
                         <tbody>
+                        <?php
+                        foreach ($arregloDocente as $Docente){?>
+
                         <tr>
                             <td rowspan="2" width="10%"><h6>DOCENTE</h6></td>
-                            <td class="test-center"><h6>Ariel Oscar</h6></td>
-                            <td class="test-center"><h6> Angoloa </h6></td>
-                            <td class="test-center"><h6> Mendoza </h6></td>
-                            <td class="test-center"><h6> Apellido esposo </h6></td>
+                            <td class="text-center"><h6><?=$Docente['NOMBRE_DOC']?></h6></td>
+                            <td class="text-center"><h6><?=$Docente['APELLPATERNO_DOC']?></h6></td>
+                            <td class="text-center"><h6><?=$Docente['APELLMATERNO_DOC']?></h6></td>
+                            <td class="text-center"><h6></h6></td>
                             <td rowspan="2"><h6><b>CI</b></h6></td>
-                            <td><h6>64646344</h6></td>
+                            <td><h6><?=$Docente['CI_DOCENTE']?> <?= $Docente['CIEXPEDIDO_DOC']?></h6></td>
                         </tr>
+                        <?php } ?>
                         <tr>
                             <td class="text-center"><h6><b>NOMBRE(S)</b></h6></td>
                             <td class="text-center"><h6><b>AP. PATERNO</b></h6></td>
@@ -956,35 +960,35 @@
                             <td width="3%">R.C.F.Nº</td>
                             <td width="3%">Hrs. de Servicio Acad.</td>
                             <td width="3%">R.C.F.Nº</td>
-                            <td width="3%">TOTAL HORAS/SEMANA TRABAJADAS</td>
+                            <td width="10%">TOTAL HORAS/SEMANA TRABAJADAS</td>
                         </tr>
                         <tr>
                             <td width="3%">Hrs. Extensión</td>
                             <td width="3%">R.C.F.Nº</td>
                             <td width="3%">Hrs. de Producc. Acad.</td>
                             <td width="3%">R.C.F.Nº</td>
-                            <td width="3%">TOTAL HORAS/MES TRABAJADAS</td>
+                            <td width="10%">TOTAL HORAS/MES TRABAJADAS</td>
                         </tr>
                         <tr>
                             <td width="3%">Hrs. Servicio</td>
                             <td width="3%">R.C.F.Nº</td>
                             <td width="3%">Hrs.Administ.Acad.</td>
                             <td width="3%">R.C.F.Nº</td>
-                            <td width="3%">TOTAL HORAS AUTORIZADAS</td>
+                            <td width="10%">TOTAL HORAS AUTORIZADAS</td>
                         </tr>
                         <tr>
                             <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td width="3%">TIEMPO PARCIAL</td>
+                            <td width="10%">TIEMPO PARCIAL</td>
                         </tr>
                         <tr>
                             <td>Observaciones</td>
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td width="3%">DEDICACION EXCLUSIVA</td>
+                            <td width="10%">DEDICACION EXCLUSIVA</td>
                         </tr>
                         </tbody>
                     </table>
@@ -993,7 +997,7 @@
                 <div>
                     <table>
                         <thead>
-                            <th width="10%">________________</th>
+                            <th width="10% ">________________</th>
                             <th width="10%">________________</th>
                             <th width="10%">________________</th>
                             <th width="10%">________________</th>
@@ -1025,8 +1029,8 @@
                 <ul>
                     <?php
                     foreach ($arregloMateria as $Materia) { ?>
-                        <li> <?= $materia['NOMBRE_DOC'] ?></li>
-                        <li> <?= $materia['APELLPA_DOC'] ?></li>
+                        <li> <?= $Materia['NOM_MATE'] ?></li>
+                        <li> <?= $Materia['APELLPA_DOC'] ?></li>
 
                     <?php } ?>
                 </ul>

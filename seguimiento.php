@@ -1,7 +1,7 @@
 <?php session_start();
 require 'funciones.php';
 if (isset($_SESSION['usuario'])){
-    $conexion = conexion('bd_seguimiento','root','');
+    $conexion = conexion('modeloSeguimiento','root','');
     if (!$conexion) {
         die();
     }
@@ -11,7 +11,7 @@ if (isset($_SESSION['usuario'])){
 }
 
 
-$statement = $conexion->prepare("SELECT ID_DOC, NOMBRE_DOC, APELLPA_DOC, APELLMA_DOC, TIPO_DOC FROM docente ");
+$statement = $conexion->prepare("SELECT ID_DOCENTE, NOMBRE_DOC, APELLPATERNO_DOC, APELLMATERNO_DOC FROM docente ");
 $statement->execute();
 $docentes = $statement->fetchAll();
 
