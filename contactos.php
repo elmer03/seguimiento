@@ -1,4 +1,5 @@
 <?php include("views/global/header.view.php")?>
+<?php include('views/global/title.view.php')?>
 <?php ?>
 <body >
 <div class="container nt-contactos">
@@ -26,7 +27,7 @@ Twitter: <a>NextSoft</a></p>
 			
 	</div>
 	<div class="button-container col-md-offset-5">
-			<a href="espacioSecretaria.php" class="btn-a btn btn-global">Salir</a>
+			<a href="espacioSecretaria.php" class="btn-a btn btn-global">Atrás</a>
 		</div>
 </div>
 </body>
@@ -60,3 +61,5 @@ Twitter: <a>NextSoft</a></p>
 </style>
 
 
+<?php include('views/global/subtitle.view.php')?>
+<?php include('views/global/footer.view.php')?>

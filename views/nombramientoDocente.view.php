@@ -1,5 +1,5 @@
 <?php include("views/global/header.view.php")?>
-
+<?php include('views/global/title.view.php')?>
 
 <div class="nt-reporteDocente" >
     <fieldset>

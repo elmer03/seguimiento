@@ -22,7 +22,7 @@ Agradecimientos</h1>
 		</div>
 		
 		<div class="button-container">
-			<a href="espacioSecretaria.php" class="btn-a btn btn-global">Salir</a>
+			<a href="espacioSecretaria.php" class="btn-a btn btn-global">Atrás</a>
 		</div>
 		
 	</div>
@@ -81,3 +81,6 @@ Agradecimientos</h1>
 		width: 15%;
 	}
 </style>
+
+<?php include('views/global/subtitle.view.php')?>
+<?php include('views/global/footer.view.php')?>
